@@ -1,0 +1,21 @@
+body {
+
+}
+
+.PageHeader {
+    text-align: center;
+    color: red;
+}
+
+.CardRow {
+    border-style: dashed;
+    border-color: black;
+    border-width: 1px;
+}
+
+.Year {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+}
